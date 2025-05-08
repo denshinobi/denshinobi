@@ -1,13 +1,42 @@
-🥷🏿 Hello, I’m @denshinobi
 
-🛹 I’m interested in cybersecurity, wing chun, parkour, and longboarding
 
-🔐 I’m currently learning cybersecurity
+# denshinobi_
 
-🫱🏿‍🫲🏽 I’m looking to collaborate on no projects at the moment.
+**Vest. Vex. Vanish.**
 
-📫 How to reach me: the denshinobi reaches you.
+Digital infiltrator. Offensive security practitioner.
 
-🎩 Pronouns: he/him
+---
 
-⚡ Fun fact: there are more ideas in my own mind at a given time than there are particles in the known universe.
+### About
+
+I'm `denshinobi_`, a red team operator focused on developing mastery in system exploitation, digital stealth, and tactical disruption.  
+My mission: build the skills to break barriers, responsibly.
+
+---
+
+### What I Do
+
+- Offensive security & red teaming
+- CTF practice & writeups
+- Tool development & scripting (Python, Bash, etc.)
+- Vulnerability research and reporting
+- Self-hosted labs & test environments
+
+---
+
+### Current Projects
+
+- **Operation Firebreak** — Personal training path to professional red teaming
+- **Recon Scripts** — Lightweight tools for scanning and recon
+
+---
+
+### Contact
+
+- **BlueSky**: [@denshinobi_](https://bsky.app/profile/denshinobi.bsky.social)
+- **Discord**: denshinobi_ 
+
+---
+
+> “Stealth is not the absence of noise—it’s the presence of purpose.”  - words found in the fog
