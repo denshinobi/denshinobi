@@ -11,7 +11,7 @@ Digital infiltrator. Offensive security practitioner.
 ### About
 
 I'm `denshinobi_`, a red team operator focused on developing mastery in system exploitation, digital stealth, and tactical disruption.  
-My mission: build the skills to break barriers, responsibly.
+My mission: build the skills to resposibly break and audit barriers.
 
 ---
 
@@ -27,7 +27,7 @@ My mission: build the skills to break barriers, responsibly.
 
 ### Current Projects
 
-- **Operation Firebreak** — Personal training path to professional red teaming
+- **Operation Firebreak** — Personal training path to professional red team operator
 - **NIST-CVE-Mirror** - A local rolling database of the CVE database by NIST
 
 ---
@@ -39,4 +39,4 @@ My mission: build the skills to break barriers, responsibly.
 
 ---
 
-> “Stealth is not the absence of noise—it’s the presence of purpose.”  - words found in the fog
+> “Stealth is not the absence of noise—it’s the presence of purpose.” 
