@@ -28,7 +28,7 @@ My mission: build the skills to break barriers, responsibly.
 ### Current Projects
 
 - **Operation Firebreak** — Personal training path to professional red teaming
-- **Recon Scripts** — Lightweight tools for scanning and recon
+- **NIST-CVE-Mirror** - A local rolling database of the CVE database by NIST
 
 ---
 
