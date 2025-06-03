@@ -39,4 +39,4 @@ My mission: build the skills to resposibly break and audit barriers.
 
 ---
 
-> “Stealth is not the absence of noise—it’s the presence of purpose.” 
+> “Stealth is not the absence of noise, but the presence of purpose.” 
