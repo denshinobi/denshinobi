@@ -35,7 +35,7 @@ My mission: build the skills to resposibly break and audit barriers.
 
 ## Current Projects
 - **Operation Firebreak** — Personal training path to professional red team operator
-- **shadowCloud** - A home server with local rolling databases of several significant cybersecurity databases
+- **Kageyurei** - 影幽霊 - A home server with local rolling databases of several significant cybersecurity resources
 <br/><br/>
 ![](https://github-contributor-stats.vercel.app/api?username=denshinobi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
