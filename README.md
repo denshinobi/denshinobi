@@ -8,7 +8,6 @@ My mission: build the skills to resposibly break and audit barriers.
 
 ## Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-00BD8E?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/denshinobi.bsky.social) 
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%2300BD8E?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@denshinobi@defcon.social) 
 [![Instagram](https://img.shields.io/badge/Instagram-%2300BD8E.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/denshinobi_) 
 [![TikTok](https://img.shields.io/badge/TikTok-%2300BD8E.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@denshinobi_) 
 [![Discord](https://img.shields.io/badge/Discord-%2300BD8E.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/jt6akTDh) 
