@@ -33,8 +33,8 @@ My mission: build the skills to resposibly break and audit barriers.
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 ## Current Projects
-- **Operation Kokushimo** — 黒霜 (blackFrost) - Professional career path to red team operator and cybersecurity consultant
-- **Kageyurei** - 影幽霊 (ghost in the shadow) - A home server with local rolling databases of several significant cybersecurity resources, and custom offensive and defensive tools. 
+- **Operation_Kokushimo** — 黒霜 (operation_blackFrost) - Professional career path to red team operator and cybersecurity consultant
+- **Kageyurei** - 影幽霊 (ghost_in_the_shadows) - A home server with local rolling databases of several significant cybersecurity resources, and custom offensive and defensive tools. 
 <br/><br/>
 ![](https://github-contributor-stats.vercel.app/api?username=denshinobi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
