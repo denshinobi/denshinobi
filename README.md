@@ -2,11 +2,11 @@
 **Vest. Vex. Vanish.** <br/>
 *Digital infiltrator. Offensive security practitioner.*
 
-## About
+### About
 I'm `denshinobi_`, a red team operator focused on developing mastery in system exploitation, digital stealth, and tactical disruption.  
 My mission: build the skills to resposibly break and audit barriers.
 
-## Socials:
+### Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-00BD8E?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/denshinobi.bsky.social) 
 [![Instagram](https://img.shields.io/badge/Instagram-%2300BD8E.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/denshinobi_) 
 [![TikTok](https://img.shields.io/badge/TikTok-%2300BD8E.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@denshinobi_) 
@@ -43,7 +43,6 @@ My mission: build the skills to resposibly break and audit barriers.
 ![](https://github-readme-stats.vercel.app/api?username=denshinobi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=denshinobi&theme=tokyonight&hide_border=true)<br/>
 
-### GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=denshinobi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ---
