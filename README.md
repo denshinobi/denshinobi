@@ -34,7 +34,7 @@ My mission: build the skills to resposibly break and audit barriers.
 
 ## Current Projects
 - **Operation_Kokushimo** — 黒霜 (operation_blackFrost) - Professional career path to red team operator and cybersecurity consultant
-- **Kageyurei** - 影幽霊 (ghost_in_the_shadows) - A home-lab containerized server network with:
+- [**Kageyurei** - 影幽霊 (ghost_in_the_shadows)](https://github.com/denshinobi/kageyurei/) - A home-lab containerized server network with:
     - `soseki` a local rolling databases of several significant cybersecurity resources
     - `anteisei` a local rolling directory of several significant infrastructural resources
     - `saya` a directory of custom offensive and defensive tools
