@@ -13,8 +13,6 @@ My mission: build the skills to resposibly break and audit barriers.
 [![Discord](https://img.shields.io/badge/Discord-%2300BD8E.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/jt6akTDh) 
 
 ## What I Do
-- Offensive security audits
-- CTF practice & writeups
 - Tool development & scripting
 - Vulnerability research and reporting
 - Self-hosted labs & test environments
