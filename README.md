@@ -1,5 +1,4 @@
-# 電忍者
-# denshinobi_
+# 電忍者   denshinobi_
 **Vest. Vex. Vanish.** <br/>
 *Digital infiltrator. Offensive security practitioner.*
 
