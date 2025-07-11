@@ -32,7 +32,7 @@ My mission: build the skills to resposibly break and audit barriers.
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 ## Current Projects
-- **Operation_Kokushimo** — 黒霜 (operation_blackFrost) - Professional career path to red team operator and cybersecurity consultant
+- [**Operation_Kokushimo** — 黒霜 (operation_blackFrost)](https://github.com/denshinobi/kokushimo) - Professional career path to red team operator and cybersecurity consultant (Private Project)
 - [**Kageyurei** - 影幽霊 (ghost_in_the_shadows)](https://github.com/denshinobi/kageyurei/) - A home-lab containerized server network with:
     - `soseki` a local rolling databases of several significant cybersecurity resources
     - `anteisei` a local rolling directory of several significant infrastructural resources
