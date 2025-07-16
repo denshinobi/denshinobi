@@ -30,6 +30,10 @@ My mission: build the skills to resposibly break and audit barriers.
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![ATEM](https://img.shields.io/badge/ATEM-555555.svg?style=for-the-badge&logo=ATEM&logoColor=000000)
+![Final Cut Pro](https://img.shields.io/badge/Final%20Cut%20Pro-450550.svg?style=for-the-badge&logo=Final%20Cut%20Pro&logoColor=white)
+![Logic Pro](https://img.shields.io/badge/Logic%20Pro-18859e.svg?style=for-the-badge&logo=Logic%20Pro&logoColor=white)
+
 
 ## Current Projects
 - [**Operation_Kokushimo** — 黒霜 (operation_blackFrost)](https://github.com/denshinobi/kokushimo) - Professional career path to red team operator and cybersecurity consultant (Private Project)
