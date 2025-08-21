@@ -41,7 +41,7 @@ My mission: build the skills to resposibly break and audit barriers.
     - `soseki` a local rolling databases of several significant cybersecurity resources
     - `anteisei` a local rolling directory of several significant infrastructural resources
     - `saya` a directory of custom offensive and defensive tools
-    - `kumo` a personal *private* cloud built on [Obsidian's API](https://docs.obsidian.md/Home)
+    - `kumo` a personal *private* cloud built implementing [Obsidian's API](https://docs.obsidian.md/Home)
 <br/><br/>
 ![](https://github-contributor-stats.vercel.app/api?username=denshinobi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
