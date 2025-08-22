@@ -1,6 +1,6 @@
 # 電忍者   denshinobi_
 **Vest. Vex. Vanish.** <br/>
-*Digital infiltrator. Offensive security practitioner.*
+*Offensive Security Operative.*
 <br/><br/>
 ### About
 I'm `denshinobi_`, a red team operator focused on developing mastery in system exploitation, digital stealth, and tactical disruption.  
