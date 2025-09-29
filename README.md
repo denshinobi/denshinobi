@@ -26,6 +26,7 @@ My mission: build the skills to resposibly break and audit barriers.
 ![Git](https://img.shields.io/badge/git-%23ffffff.svg?style=for-the-badge&logo=git&logoColor=ff4433)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Flipper Zero](https://img.shields.io/badge/flipperzero-%FF8200.svg?style=for-the-badge&logo=flipperzero&logoColor=ff8200)
 
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
